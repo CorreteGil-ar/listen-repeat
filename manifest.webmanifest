@@ -1,0 +1,16 @@
+{
+  "name": "Listen and Repeat: práctica para el TOEFL",
+  "short_name": "Listen & Repeat",
+  "description": "Práctica de la tarea Listen and Repeat del TOEFL iBT con tiempos de examen.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F1714",
+  "theme_color": "#0F1714",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
