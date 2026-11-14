@@ -1,8 +1,8 @@
 {
-  "name": "Listen and Repeat: práctica para el TOEFL",
+  "name": "Listen and Repeat: TOEFL practice",
   "short_name": "Listen & Repeat",
-  "description": "Práctica de la tarea Listen and Repeat del TOEFL iBT con tiempos de examen.",
-  "lang": "es",
+  "description": "Practice for the TOEFL iBT Listen and Repeat task with exam timing.",
+  "lang": "en",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
